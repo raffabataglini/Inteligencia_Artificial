@@ -1,0 +1,15 @@
+ID,Vendedor,Regiao,Status_Entrega
+101,Ana Lima,Sudeste,Entregue
+102,Carlos Souza,Sul,Em Transporte
+103,Mariana Rios,Sudeste,Entregue
+104,Carlos Souza,Nordeste,Entregue
+105,Beatriz Melo,Sudeste,Pendente
+106,Mariana Rios,Sul,Entregue
+107,Lucas Paiva,Centro-Oeste,Entregue
+108,Ana Lima,Sudeste,Cancelado
+109,Beatriz Melo,Nordeste,Entregue
+110,Lucas Paiva,Sudeste,Em Transporte
+111,Carlos Souza,Sul,Entregue
+112,Ana Lima,Sudeste,Entregue
+116,Mariana Rios,Norte,Pendente
+117,Lucas Paiva,Centro-Oeste,Entregue

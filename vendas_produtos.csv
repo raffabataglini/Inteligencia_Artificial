@@ -1,0 +1,16 @@
+ID,Product,Category,Quantity,Unit_Price,Total,Quality_Score
+101,Batedeira Planetaria,Eletrodomesticos,3,350.0,1050.0,70.0
+102,Cafeteira Expressa,Eletrodomesticos,5,220.0,1100.0,
+103,Bicicleta Aro 29,Esporte,2,1200.0,2400.0,76.0
+104,Smartphone 5G,Eletronicos,4,2500.0,10000.0,
+105,Blender Portatil,Eletrodomesticos,8,150.0,1200.0,82.0
+106,Notebook Gamer,Eletronicos,1,4800.0,4800.0,85.0
+107,Boneco Colecionavel,Brinquedos,6,80.0,480.0,
+108,Monitor 27,Eletronicos,3,1100.0,3300.0,91.0
+109,Bolsa Termica,Acessorios,10,45.0,450.0,94.0
+110,Teclado Mecanico,Eletronicos,7,280.0,1960.0,
+111,Barbeador Eletrico,Cuidados Pessoais,4,130.0,520.0,98.0
+112,Mouse sem Fio,Eletronicos,12,95.0,1140.0,100.0
+113,Biscoito Artesanal,Alimentos,25,12.0,300.0,
+114,Fone Bluetooth,Eletronicos,9,180.0,1620.0,104.0
+115,Bandeja Inox,Utilidades,15,35.0,525.0,106.0
